@@ -1,0 +1,7 @@
+enfly
+.vscode
+__pycache__
+.mypy_cache
+.env
+.pytest_cache
+.coverage
